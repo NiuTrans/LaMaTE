@@ -1,0 +1,6 @@
+data/ComMT/*
+exps/*
+
+
+*.pyc
+__pycache__/
