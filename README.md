@@ -1,23 +1,13 @@
 # Beyond Decoder-only: Large Language Models Can be Good Encoders for Machine Translation
 
-
 <p align="center">
-  <a href="xx">
-    <img src="https://img.shields.io/badge/Paper-LaMaTE-blue?logo=arxiv&logoColor=white" alt="Paper">
-  </a>
-  <a href="https://huggingface.co/NiuTrans/LaMaTE">
-    <img src="https://img.shields.io/badge/Model-LaMaTE-yellow?logo=huggingface" alt="Model">
-  </a>
-  <a href="https://huggingface.co/datasets/NiuTrans/ComMT">
-    <img src="https://img.shields.io/badge/Dataset-ComMT-yellow?logo=huggingface" alt="Dataset">
-  </a>
-  <a href="https://github.com/NiuTrans">
-    <img src="https://img.shields.io/badge/NiuTrans-blue">
-  </a>
-   <a href="http://team.neu.edu.cn/NEUNLPLab/zh_CN/index.htm">
-    <img src="https://img.shields.io/badge/NEUNLP-blue">
-  </a>
+  <a href="xx" alt="paper"><img src="https://img.shields.io/badge/Paper-LaMaTE-blue?logo=arxiv&logoColor=white"/></a>
+  <a href="https://huggingface.co/NiuTrans/LaMaTE" alt="Model"><img src="https://img.shields.io/badge/Model-LaMaTE-yellow?logo=huggingface"/></a>
+  <a href="https://huggingface.co/datasets/NiuTrans/ComMT" alt="Dataset"><img src="https://img.shields.io/badge/Dataset-ComMT-yellow?logo=huggingface"/></a>
+  <a href="https://github.com/NiuTrans" alt="NiuTrans"><img src="https://img.shields.io/badge/NiuTrans-blue"/></a>
+  <a href="http://team.neu.edu.cn/NEUNLPLab/zh_CN/index.htm" alt="NEUNLP"><img src="https://img.shields.io/badge/NEUNLP-blue"/></a>
 </p>
+
 
 <div align="center">
 <p align="center" dir="auto">
