@@ -42,7 +42,7 @@ We have made the following resources available:
 
 | Resource         | Description                                         | Link                                                      |
 |------------------|-----------------------------------------------------|-----------------------------------------------------------|
-| LaMaTE    | Our advanced translation model, developed using Llama-3-8B	  | [🤗NiuTrans/LaMaTE](https://huggingface.co/NiuTrans/LaMaTE) |
+| LaMaTE    | The LaMaTE model, developed using Llama-3-8B	  | [🤗NiuTrans/LaMaTE](https://huggingface.co/NiuTrans/LaMaTE) |
 | ComMT    | Dataset suite, includes 239k high-quality, diverse SFT data	  | [🤗NiuTrans/ComMT](https://huggingface.co/datasets/NiuTrans/ComMT) |
 
 
