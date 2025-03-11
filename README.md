@@ -1,7 +1,7 @@
 # Beyond Decoder-only: Large Language Models Can be Good Encoders for Machine Translation
 
 <p align="center">
-  <a href="xx" alt="paper"><img src="https://img.shields.io/badge/Paper-LaMaTE-blue?logo=arxiv&logoColor=white"/></a>
+  <a href="https://arxiv.org/abs/2503.06594" alt="paper"><img src="https://img.shields.io/badge/Paper-LaMaTE-blue?logo=arxiv&logoColor=white"/></a>
   <a href="https://huggingface.co/NiuTrans/LaMaTE" alt="Model"><img src="https://img.shields.io/badge/Model-LaMaTE-yellow?logo=huggingface"/></a>
   <a href="https://huggingface.co/datasets/NiuTrans/ComMT" alt="Dataset"><img src="https://img.shields.io/badge/Dataset-ComMT-yellow?logo=huggingface"/></a>
   <a href="https://github.com/NiuTrans" alt="NiuTrans"><img src="https://img.shields.io/badge/NiuTrans-blue"/></a>
@@ -114,7 +114,7 @@ LaMaTE/
 │   │       └── xxx
 ```
 
-Maintain a consistent file naming convention: ```train/valid.${first_lang}-en.${task_type}.json```. 
+Maintain a consistent file names: ```train/valid.${first_lang}-en.${task_type}.json```. 
 Test sets should clearly specify the direction of translation. 
 
 The ```task_types``` values are:
@@ -126,7 +126,7 @@ The ```task_types``` values are:
 - context_learning_trans
 
 Each line in the data files represents a sample, labeled according to the task_type key. 
-For more details, refer to ComMT.
+For more details, refer to [ComMT](https://huggingface.co/datasets/NiuTrans/ComMT).
 
 To train:
 ```
@@ -154,3 +154,16 @@ bash eval_commt.sh ${decoder_result_dir}
 Results are stored in ```scripts/ComMT_result.xlsx```.
 
 # Reference
+For more details, please refer to LaMaTE [paper](https://arxiv.org/abs/2503.06594).
+
+Email: luoyingfeng_neu@outlook.com
+```
+@misc{luoyf2025lamate,
+      title={Beyond Decoder-only: Large Language Models Can be Good Encoders for Machine Translation}, 
+      author={Yingfeng Luo, Tong Zheng, Yongyu Mu, Bei Li, Qinghong Zhang, Yongqi Gao, Ziqiang Xu, Peinan Feng, Xiaoqian Liu, Tong Xiao, Jingbo Zhu},
+      year={2025},
+      eprint={2503.06594},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
