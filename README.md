@@ -160,7 +160,7 @@ Email: luoyingfeng_neu@outlook.com
 ```
 @misc{luoyf2025lamate,
       title={Beyond Decoder-only: Large Language Models Can be Good Encoders for Machine Translation}, 
-      author={Yingfeng Luo, Tong Zheng, Yongyu Mu, Bei Li, Qinghong Zhang, Yongqi Gao, Ziqiang Xu, Peinan Feng, Xiaoqian Liu, Tong Xiao, Jingbo Zhu},
+      author={Yingfeng Luo and Tong Zheng and Yongyu Mu and Bei Li and Qinghong Zhang and Yongqi Gao and Ziqiang Xu and Peinan Feng and Xiaoqian Liu and Tong Xiao and Jingbo Zhu},
       year={2025},
       eprint={2503.06594},
       archivePrefix={arXiv},
